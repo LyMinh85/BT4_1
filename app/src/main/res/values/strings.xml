@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BT4</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="view_contact_information">View Contact Information</string>
+    <string name="project">Project</string>
+    <string name="finish">Finish</string>
+</resources>
